@@ -1,0 +1,38 @@
+srsblmrtb
+brrktbhm
+
+byh;r
+
+check
+proverka.txt
+
+        tgvrst
+S			
+Rtgr		
+		rag
+   
+ вася.txt
+				fy
+			12345
+ Friendship is magic
+
+S
+S
+chack
+chock
+
+
+for var in v i c l n
+do
+    for var2 in v i c l n
+    do
+        for var3 in '^.$' 'int' '[А-Яа-яЁё]\.txt' 'FRiend'
+        do
+        if [ $var != $var2 ]
+        then
+        var1="-$var$var2 $var3"
+        test $var1
+        fi
+        done
+    done
+done
